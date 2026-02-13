@@ -22,13 +22,24 @@ Dataset Description
 
 The dataset contains customer-level telecom data including demographic information, tenure, contract types, internet and add-on services, payment methods, and churn status.
 
-Key Findings
+Key Insights
 
-The analysis shows that gender does not significantly influence churn. Senior citizens exhibit a higher churn rate compared to other customers. Customers with shorter tenure are more likely to churn, especially during the early stages of the customer lifecycle. Month-to-month contracts have the highest churn, while long-term contracts show better retention. Customers without value-added services such as online security, backup, device protection, and technical support are more likely to churn. Automatic payment methods are associated with lower churn compared to manual payments.
+Gender does not have a significant impact on churn.
+Around 41% of senior citizens churn, making them a high-risk segment.
+Customers with shorter tenure are more likely to churn.
+Month-to-month contracts show the highest churn rates.
+Customers without value-added services (online security, backup, device protection, tech support) churn more frequently.
+Customers using automatic payment methods churn significantly less than those using manual payment options.
 
-Business Recommendations
+Recommendations
+ 
+Improve onboarding and engagement for new customers.
+Design senior-citizen-friendly plans and support services.
+Encourage long-term contracts through incentives.
+Bundle value-added services to increase perceived value.
+Improve service quality for fiber optic customers.
+Promote automatic payment methods to reduce churn risk.
 
-To reduce churn, the business should focus on improving early customer engagement, introducing senior-citizen-friendly plans, encouraging long-term contract adoption, bundling value-added services, improving fiber optic service support, and promoting automatic payment methods.
 
 Conclusion
 
