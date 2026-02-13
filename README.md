@@ -1,3 +1,8 @@
+<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/b3516e72-a9b4-4150-8e7d-fcbc5cc8f961" />
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/1130f46f-144b-40ec-980e-1f3907753f46" />
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/718ee9dd-a914-4c80-ab78-efac9f24020f" />
+<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/798987a1-e297-4fa5-b5cc-f058e786b103" />
+
 # PYTHON-CHURN-ANALYSIS-PROJECT
 Telecom Customer Churn Analysis project focuses on identifying key factors driving customer attrition using exploratory data analysis. It analyzes tenure, contracts, services, and payment methods to uncover churn patterns and provides data-driven strategies to improve customer retention and reduce revenue loss.
 Telecom Customer Churn Analysis
